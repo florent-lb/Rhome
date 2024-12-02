@@ -11,7 +11,6 @@ export const MAIL_ROUTES: Routes = [
 
 @NgModule({
   declarations: [],
-  providers:[],
   imports: [
     CommonModule,
     RouterModule.forChild(MAIL_ROUTES)

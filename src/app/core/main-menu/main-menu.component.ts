@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import {MainMenuItemComponent} from "./main-menu-item/main-menu-item.component";
+import {RouterLinkActive} from "@angular/router";
 
 @Component({
   selector: 'rha-main-menu',
